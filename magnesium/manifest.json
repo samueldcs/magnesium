@@ -1,0 +1,10 @@
+{
+	"id": "magnesium",
+	"name": "Magnesium",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Simple Redis-powered synchronization for Obsidian vaults",
+	"author": "Samuel Simão",
+	"authorUrl": "https://github.com/samueldcs",
+	"isDesktopOnly": false
+}
